@@ -1,0 +1,6 @@
+{
+  "name": "shadowXdownloding",
+  "description": "A self-hosted media downloader API and dashboard supporting YouTube extraction, direct file downloading, API key authentication, rate-limiting, and detailed request tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
